@@ -1,10 +1,10 @@
-## Hey
+# Hey
 
 I'm Cheeky, I like shitposting and math
 
 I also do cybersercurity stuff
 
-# Fun Facts:
+## Fun Facts:
 * I'm allergic to salt
 * Chronically online
 * Is on a shitty pc
