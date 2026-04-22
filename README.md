@@ -2,7 +2,7 @@
 
 I'm Cheeky, I like shitposting and math
 
-I also do cybersercurity stuff
+I also do cybersecurity stuff
 
 ## Fun Facts:
 * I'm allergic to salt
